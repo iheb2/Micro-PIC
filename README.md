@@ -18,9 +18,10 @@
 
 
 ## 📝 Realised tasks
-Realised tasks
 1- Elaborating the report .
+
 2- Measuring noise and air pollution every minute Sensitize customers via messages on an LCD screen.
+
 3- Light up LEDs according to pollution levels Detect the two modes day and night by a light sensor...
 
 
