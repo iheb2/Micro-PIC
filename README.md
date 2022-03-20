@@ -14,13 +14,13 @@
 
 
 ## 📝 Description
-- A 3-months academic group project to develop a system and a prototype that makes it possible to measure noise and air pollution periodically and raise to raise awareness of customers via messages.
+- A 3-month academic group project to develop a system and a prototype that makes it possible to measure noise and air pollution periodically and to raise awareness of customers via messages.
 
 
 ## 📝 Realised tasks
-1- Elaborating the report .
+1- Report Elaboration .
 
-2- Measuring noise and air pollution every minute Sensitize customers via messages on an LCD screen.
+2- Noise and air pollution measurement and customers sensitization via messages on an LCD screen.
 
 3- Light up LEDs according to pollution levels Detect the two modes day and night by a light sensor...
 
